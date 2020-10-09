@@ -1,4 +1,4 @@
-******  Weather forecast data visualization using matplotlib *****
+******  weather forecast data of 7 days visualization using matplotlib *****
 
 Collected weather data from "https://api.openweathermap.org/"
 
